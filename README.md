@@ -1,6 +1,4 @@
-Your `README.md` and description are already looking great — clear, well-structured, and informative! I've gone through it and made a few **minor corrections and polishings** to improve grammar, formatting, and clarity. Here's the **cleaned-up version**:
 
----
 
 ### ✅ **Project Description**
 **Sepsis Mortality Stacking Classifier Web App**
