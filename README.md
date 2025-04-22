@@ -63,6 +63,12 @@ streamlit run app.py
 **R. Yashwanth**  
 [GitHub](https://github.com/ryashwanth21)
 
+## 🙌 Contributors
+Thanks to the amazing collaborators who helped build this project:
+
+- [@karthikeya-1601](https://github.com/karthikeya-1601) – Karthikeya  
+- [@LOHIT9177](https://github.com/LOHIT9177) – Lohit
+
 ## 📬 Contact
 Feel free to raise an issue or contribute. Feedback is always welcome!
 
@@ -71,6 +77,4 @@ Feel free to raise an issue or contribute. Feedback is always welcome!
 ⚠️ **Disclaimer**: This project is intended for educational and research purposes only and is **not suitable for clinical use without professional validation**.
 ```
 
----
 
-Let me know if you'd like to add a license, contributors section, or badges (like Python version, Streamlit, etc.) to the top!
