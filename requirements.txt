@@ -6,3 +6,5 @@ seaborn
 Pillow
 plotly
 scikit-learn
+joblib
+xgboost
